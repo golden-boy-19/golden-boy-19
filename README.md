@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 
 
+My name is Gabriel Néris, but you can go foward to call me Golden Boy;
+
+I'm a Game Programmer, Web Designer and Cat/Pudding Lover sometimes, which is kinda weird to say;
+
+Even thought, i'm just a starter, so there's many things that I have to reach yet;
+
+Be cool and stay tuned to the new contents on my github
+
+Matta ne 👋
 <!--
 **golden-boy-19/golden-boy-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
