@@ -6,20 +6,11 @@ I'm a Game Programmer, Web Designer and Cat/Pudding Lover sometimes, which is ki
 
 Even thought, i'm just a starter, so there's many things that I have to reach yet;
 
-Be cool and stay tuned to the new contents on my github
+Be cool and stay tuned to my new contents on my github
 
-Matta ne 👋
-<!--
-**golden-boy-19/golden-boy-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Air Rage - My Personal Site
+- 🌱 I’m currently learning: Javascript - Game Programming (Gamemaker, Godot, Unity)
+- 👯 I’m looking to collaborate on: Indie Studios (Still thinking on that)
+- 🤔 I’m looking for help with: Anyone who knows more than me
+- 📫 How to reach me: Go to my house (Jokin' Twitter: https://twitter.com/GoldenBlockReal)
+- ⚡ Fun fact: We live beacuse the world needs us
