@@ -1,6 +1,6 @@
 ### Hi there 
 
-My name is Gabriel Néris, but you can go foward to call me Golden Boy;
+My name is Gabriel;
 
 I'm a Game Programmer, Web Designer and Cat/Pudding Lover sometimes, which is kinda weird to say;
 
